@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://root:1234@cluster0.gwz9s.mongodb.net/willpay?retryWrites=true&w=majority",
+    "google_client_id":"946942732958-jtpictl2dpdttpm6bd375t1q6binv7pp.apps.googleusercontent.com",
+    "google_secret":"fQMiEWmdwSo0dKMuyVm1UBsZ"
+}
